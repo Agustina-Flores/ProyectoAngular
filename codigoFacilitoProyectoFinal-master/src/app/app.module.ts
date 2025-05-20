@@ -5,11 +5,9 @@ import { AppComponent } from './app.component';
 import { MarketNamePipe } from './pipes/market-name.pipe'; 
 
 @NgModule({
-  declarations: [
-  
-    MarketNamePipe
-  ],
+  declarations: [],
   imports: [ 
+    MarketNamePipe,
     BrowserModule,
     AppRoutingModule,
     AppComponent,
