@@ -1,4 +1,4 @@
-# CursoooooooProfesionalAngular
+# CursoProfesionalAngular
 
 ## Listado de cartas
 
