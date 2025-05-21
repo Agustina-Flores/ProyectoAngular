@@ -1,4 +1,4 @@
-# CursoProfesionalAngular
+# Título desde main
 
 ## Listado de cartas
 
