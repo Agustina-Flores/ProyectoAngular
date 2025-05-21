@@ -27,7 +27,7 @@ export class ListComponent implements OnInit {
       debounceTime(1000)
     ) 
       .subscribe((res)  => { 
-      console.log("res" , res);
+      console.log("respuesta" , res);
       this.cards = [];
       this.searchCards(res); 
      });
