@@ -1,4 +1,18 @@
-# Título desde main
+# Proyecto Final de Angular
+
+🃏 Proyecto Angular – Consumo de API YGOProDeck
+
+Este proyecto en Angular consume la API pública de YGOProDeck, mostrando una lista de cartas de Yu-Gi-Oh!.
+
+✨ Funcionalidades:
+🔍 Búsqueda de cartas por nombre o palabra clave.
+
+📄 Visualización detallada de una carta seleccionada mediante su ID.
+
+🔁 Carga de cartas con scroll infinito: se cargan 100 cartas por vez al hacer scroll hacia abajo.
+
+🌐 Consumo de la API:
+https://db.ygoprodeck.com/api/v7/cardinfo.php?num=100&offset=...
 
 ## Listado de cartas
 
@@ -8,12 +22,6 @@
 
 ![alt text](image.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
+## Buscador
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![alt text](image-3.png)
