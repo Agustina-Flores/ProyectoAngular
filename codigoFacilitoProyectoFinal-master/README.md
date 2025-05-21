@@ -1,4 +1,4 @@
-# ProyectooooFinalAngular
+# ProyectoFinalAngular
 
 ## Listado de cartas
 
